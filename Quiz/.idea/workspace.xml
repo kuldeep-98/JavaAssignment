@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5879d83c-bf12-4e07-821d-0be421a6b72e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFDOwlayzrLeUelmddxsLWpn2w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-8.0.19.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Quiz">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Quiz" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Quiz" />
+      <module name="Quiz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Quiz" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Quiz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5879d83c-bf12-4e07-821d-0be421a6b72e" name="Default Changelist" comment="" />
+      <created>1584425919199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584425919199</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="32" width="800" height="736" key="#Intentions" timestamp="1584443677461">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="32" width="800" height="736" key="#Intentions/0.27.1366.741@0.27.1366.741" timestamp="1584443677461" />
+    <state x="491" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1584442852764">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1584442852764" />
+    <state x="416" y="323" width="524" height="156" key="DBNavigator.CreateRenameSessionDialog" timestamp="1584426069215">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="323" width="524" height="156" key="DBNavigator.CreateRenameSessionDialog/0.27.1366.741@0.27.1366.741" timestamp="1584426069215" />
+    <state x="216" y="55" width="924" height="691" key="DBNavigator.ProjectSettingsDialog" timestamp="1584433284174">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="216" y="55" width="924" height="691" key="DBNavigator.ProjectSettingsDialog/0.27.1366.741@0.27.1366.741" timestamp="1584433284174" />
+    <state x="305" y="141" width="735" height="520" key="FileChooserDialogImpl" timestamp="1584425952621">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="305" y="141" width="735" height="520" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1584425952621" />
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1584446238639">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584446238639" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1584446238639">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584446238639" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1584446238638">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584446238638" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1584446238639">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584446238639" />
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1584442115765">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584442115765" />
+    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1584442115764">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1584442115764" />
+    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1584442115764">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1584442115764" />
+    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1584442115764">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1584442115764" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1584425958674">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584425958674" />
+    <state x="537" y="194" width="291" height="414" key="UIDesigner.ListEditorDialog" timestamp="1584435648342">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="537" y="194" width="291" height="414" key="UIDesigner.ListEditorDialog/0.27.1366.741@0.27.1366.741" timestamp="1584435648342" />
+    <state x="416" y="281" width="534" height="239" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1584428146213">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="281" width="534" height="239" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.27.1366.741@0.27.1366.741" timestamp="1584428146213" />
+  </component>
+</project>

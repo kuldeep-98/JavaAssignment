@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc6d0594-f383-49b0-8e12-830e1325be6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="184" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJQxO9j7x4Y7eBjrFGhVpQLNFX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.KBC">
+    <configuration name="FindPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindPairs" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KBC" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MouseAdapterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MouseAdapterExample" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="JavaPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KBC" />
+        <item itemvalue="Application.MouseAdapterExample" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.FindPairs" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc6d0594-f383-49b0-8e12-830e1325be6f" name="Default Changelist" comment="" />
+      <created>1580761963578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580761963578</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1584021426584">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="832" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1584021426584" />
+    <state x="216" y="55" width="924" height="691" key="DBNavigator.ProjectSettingsDialog" timestamp="1584021838531">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="216" y="55" width="924" height="691" key="DBNavigator.ProjectSettingsDialog/0.27.1366.741@0.27.1366.741" timestamp="1584021838531" />
+    <state x="461" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582791241332">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="461" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582791241332" />
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1584042285703">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584042285703" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1584042285702">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584042285702" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1584042285701">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584042285701" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1584042285702">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584042285702" />
+    <state width="617" height="215" key="GridCell.Tab.1.bottom" timestamp="1581950749137">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="617" height="215" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1581950749137" />
+    <state width="617" height="215" key="GridCell.Tab.1.center" timestamp="1581950749134">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="617" height="215" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1581950749134" />
+    <state width="617" height="215" key="GridCell.Tab.1.left" timestamp="1581950749134">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="617" height="215" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1581950749134" />
+    <state width="617" height="215" key="GridCell.Tab.1.right" timestamp="1581950749135">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="617" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1581950749135" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1584021812148">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584021812148" />
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583433757943">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1583433757943" />
+    <state x="696" y="293" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580774540346">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="696" y="293" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1366.741@0.27.1366.741" timestamp="1580774540346" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1583345035876">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1583345035876" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPractice$Practice.ic" NAME="Practice Coverage Results" MODIFIED="1583169012932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
